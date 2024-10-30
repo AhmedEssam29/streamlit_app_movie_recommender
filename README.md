@@ -18,7 +18,7 @@ This is a **Movie Recommender System** built using Streamlit and the TMDB (The M
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AhmedEssam29/streamlit_app_movie_recommender.git
 
 
 - to run the app: streamlit run app.py
